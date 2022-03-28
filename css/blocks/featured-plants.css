@@ -1,0 +1,52 @@
+.featured-plants{
+    margin-bottom: 200px;
+}
+
+.featured-plants-titles{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 56px;
+    margin-right: 56px;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.featured-plants-titles__title{
+    font-weight: 500;
+    font-size: 20px;
+    color: #000000;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+.featured-plants-titles__select{
+    border: 1px solid #E0E0E0;
+    margin-bottom: 16px;
+    padding: 8px 15px 8px 12px;
+}
+
+.featured-plants-content{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 56px;
+    margin-right: 56px;
+}
+
+.featured-plants__card{
+    text-align: center;
+    margin-top: 24px;
+    color: #000000;
+}
+
+.featured-plants__card__name{
+    margin-top: 16px;
+    margin-bottom: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.featured-plants__card__price{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
